@@ -2,5 +2,5 @@
 <XMLToJSON async="false" continueOnError="false" enabled="true" name="XTJ-XMLToJSON">
     <DisplayName>XTJ-XMLToJSON</DisplayName>
     <Properties/>
-    <Format>yahoo</Format
-</XMLToJSON>
+    <Format>yahoo<Format
+</XMLToJSON
